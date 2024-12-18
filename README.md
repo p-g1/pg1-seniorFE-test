@@ -32,7 +32,7 @@ The polling is then cleared.
 
 **DEPLOYMENT**
 
-The application is deployed on Vercel [here]().
+The application is deployed on Vercel [here](https://pg1-senior-fe-test.vercel.app).
 <br/>
 <br/>
 
